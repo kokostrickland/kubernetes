@@ -9,13 +9,13 @@ module k8s.io/kubernetes
 go 1.21.3
 
 require (
-	bitbucket.org/bertimus9/systemstat v0.5.0
+	bitbucket.org/bertimus9/systemstat v0.5.1
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.29
 	github.com/Azure/go-autorest/autorest/adal v0.9.23
 	github.com/GoogleCloudPlatform/k8s-cloud-provider v1.18.1-0.20220218231025-f11817397a1b
 	github.com/JeffAshton/win_pdh v0.0.0-20161109143554-76bb4ee9f0ab
-	github.com/Microsoft/go-winio v0.6.0
+	github.com/Microsoft/go-winio v0.6.2
 	github.com/Microsoft/hcsshim v0.8.25
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
